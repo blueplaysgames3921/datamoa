@@ -1,0 +1,159 @@
+DataMoA Source-Available License (No-Cost, Restricted Use)
+Version 1.0
+
+Copyright (c) 2026 blueplaysgames3921
+All rights reserved.
+
+This is a custom license written specifically for this project. It is
+NOT an OSI-approved open source license (such as MIT, Apache-2.0, or
+GPL), even though the source code is published in a public repository.
+Read it before you use, copy, or rely on this software in any way.
+
+
+1. GRANT OF LICENSE
+
+   Subject to the terms of this license, the Licensor grants you a
+   worldwide, royalty-free, non-exclusive, non-transferable, revocable
+   license to download, install, and use the Software (source code,
+   compiled binaries, and accompanying materials), free of charge and
+   at no cost, for any lawful personal, internal, or commercial purpose.
+
+
+2. RESTRICTIONS
+
+   Without the Licensor's prior written permission, you may NOT:
+
+   a. copy, fork, mirror, redistribute, publish, host, sell, rent,
+      lease, or sublicense the Software, in source or compiled form,
+      in whole or in part, modified or unmodified, to or for any third
+      party;
+
+   b. use the Software, or any part of it, as the basis for a
+      competing product or service that is itself distributed,
+      published, or sold to others;
+
+   c. remove, obscure, or alter any copyright, attribution, or license
+      notices contained in the Software.
+
+   You MAY run the Software for your own use (personal, internal
+   business, or otherwise), and you MAY propose changes back to the
+   Licensor (for example, via a pull request), which the Licensor may
+   accept, reject, or modify at its sole discretion.
+
+
+3. OWNERSHIP
+
+   This is a license, not a transfer of ownership. The Licensor retains
+   all right, title, and interest in and to the Software, including all
+   associated intellectual property rights. No rights are granted to
+   you except as expressly stated in this license.
+
+
+4. PROVIDED FREE OF CHARGE, WITH NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", FREE OF CHARGE,
+   WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+   LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE LICENSOR DOES
+   NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, SECURE, OR
+   UNINTERRUPTED, OR THAT ANY DATA EXTRACTED, SCORED, GENERATED,
+   ENRICHED, VALIDATED, OR WRITTEN BY THE SOFTWARE, INCLUDING ANY OUTPUT
+   FROM AN AI OR LARGE LANGUAGE MODEL, WILL BE ACCURATE, COMPLETE,
+   RELIABLE, OR SUITABLE FOR ANY PURPOSE.
+
+
+5. LIMITATION OF LIABILITY
+
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL
+   THE LICENSOR, ITS AUTHORS, MAINTAINERS, OR CONTRIBUTORS BE LIABLE FOR
+   ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER ARISING IN CONTRACT,
+   TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, ARISING FROM, OUT OF, OR
+   IN CONNECTION WITH THE SOFTWARE OR ITS USE, INCLUDING WITHOUT
+   LIMITATION ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+   EXEMPLARY, OR PUNITIVE DAMAGES; LOSS OF DATA, PROFITS, REVENUE, OR
+   BUSINESS; OR THE COST OF SUBSTITUTE GOODS OR SERVICES, EVEN IF
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY
+   FAILS OF ITS ESSENTIAL PURPOSE.
+
+
+6. ASSUMPTION OF RISK; YOUR RESPONSIBILITIES
+
+   You acknowledge and agree that the Software:
+
+   a. uses AI and large language models to extract, interpret,
+      transform, score, and generate data, and that such output may be
+      incomplete, incorrect, biased, outdated, or entirely fabricated;
+
+   b. can, depending on your configuration, automatically write data
+      into external systems (files, databases, spreadsheets, Airtable,
+      APIs, etc.) with little or no human review;
+
+   c. may connect to third-party services and APIs that can charge
+      fees, enforce rate limits, change behavior, or stop functioning,
+      at any time and without notice.
+
+   You are solely responsible for:
+
+   - independently reviewing and verifying any data produced, scored,
+     or written by the Software before relying on it for any business,
+     financial, legal, medical, tax, regulatory, or other decision;
+   - configuring the Software appropriately for your use case, including
+     which AI models, agents, and write destinations are enabled;
+   - any fees or costs incurred from third-party APIs or services you
+     connect to the Software;
+   - the security, storage, and handling of your own API keys,
+     credentials, configuration files, and data;
+   - your compliance with all laws and regulations applicable to your
+     use of the Software and to any data you process with it, including
+     data protection and privacy laws.
+
+
+7. INDEMNIFICATION
+
+   You agree to indemnify, defend, and hold harmless the Licensor and any
+   contributors from and against any and all claims, liabilities,
+   damages, losses, costs, and expenses (including reasonable legal
+   fees) arising out of or related to: (a) your use or misuse of the
+   Software; (b) your violation of any term of this license; or (c) your
+   violation of any rights of a third party, including through data you
+   process, store, or transmit using the Software.
+
+
+8. NO SUPPORT OR MAINTENANCE OBLIGATION
+
+   The Software is provided free of charge on an "as available" basis.
+   The Licensor has no obligation to provide updates, bug fixes,
+   security patches, support, or maintenance of any kind, and may
+   discontinue the project at any time.
+
+
+9. THIRD-PARTY COMPONENTS AND SERVICES
+
+   The Software may include, depend on, or integrate with third-party
+   open-source components and third-party services (including AI model
+   providers, Google, Airtable, databases, or APIs you configure). Each
+   such component or service is governed by its own license or terms,
+   which you are responsible for reviewing and complying with. This
+   license does not grant any rights to those third-party components or
+   services, and the Licensor has no responsibility for them.
+
+
+10. TERMINATION
+
+    This license terminates automatically, without notice, if you breach
+    any of its terms. Upon termination, you must stop using the Software
+    and destroy any copies of it in your possession or control.
+
+
+11. SEVERABILITY
+
+    If any provision of this license is held to be unenforceable, that
+    provision will be limited or eliminated to the minimum extent
+    necessary so that the remaining provisions remain in full force and
+    effect, and the unenforceable provision will be interpreted to best
+    accomplish its original intent.
+
+
+By downloading, cloning, installing, configuring, or using the Software
+in any way, you agree to be bound by the terms of this license. If you do
+not agree, do not use the Software.
